@@ -1,0 +1,99 @@
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1467984240348">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_a-p_g_-maestra.css" crc="4279925345" ref="música-antigua:exposiciones:orquesta-filarmónica-de-bogotá:piano:artistas-invitados:música-clásica:martes-en-vivo:orquesta-de-los-andes:bogoshorts:coro-de-los-andes:semana-de-las-artes:música-experimental:agenda-cultural:música-del-mundo:festivales:franjas-permanentes:festival-de-jazz:orquesta-filarmónica-juvenil:música:banda-filarmónica-juvenil:orquesta-filarmónic-a-juvenil-de-cámara:festival-de-teatro:grupo-de-teatro:orquesta-sinfónica-de-bogotá:cine:danza:coro-filarmónico-juvenil:teatro:grupos-de-la-ciudad:conciertos-del-medio-día:grupos-institucionales:opera:festival-de-bandas"/>
+    <file name="master_b-p_g_-maestra.css" crc="4184307304" ref="index"/>
+    <file name="m_sica-antigua.css" crc="4060469216" ref="música-antigua"/>
+    <file name="exposiciones.css" crc="4060469216" ref="exposiciones"/>
+    <file name="orquesta-filarm_nica-de-bogot_.css" crc="4060469216" ref="orquesta-filarmónica-de-bogotá"/>
+    <file name="piano.css" crc="4060469216" ref="piano"/>
+    <file name="artistas-invitados.css" crc="4123426118" ref="artistas-invitados"/>
+    <file name="m_sica-cl_sica.css" crc="4060469216" ref="música-clásica"/>
+    <file name="martes-en-vivo.css" crc="4060469216" ref="martes-en-vivo"/>
+    <file name="orquesta-de-los-andes.css" crc="4060469216" ref="orquesta-de-los-andes"/>
+    <file name="bogoshorts.css" crc="4060469216" ref="bogoshorts"/>
+    <file name="coro-de-los-andes.css" crc="4060469216" ref="coro-de-los-andes"/>
+    <file name="semana-de-las-artes.css" crc="4060469216" ref="semana-de-las-artes"/>
+    <file name="m_sica-experimental.css" crc="4060469216" ref="música-experimental"/>
+    <file name="agenda-cultural.css" crc="361121031" ref="agenda-cultural"/>
+    <file name="m_sica-del-mundo.css" crc="4060469216" ref="música-del-mundo"/>
+    <file name="festivales.css" crc="4060469216" ref="festivales"/>
+    <file name="franjas-permanentes.css" crc="199834323" ref="franjas-permanentes"/>
+    <file name="festival-de-jazz.css" crc="4060469216" ref="festival-de-jazz"/>
+    <file name="orquesta-filarm_nica-juvenil.css" crc="4060469216" ref="orquesta-filarmónica-juvenil"/>
+    <file name="m_sica.css" crc="4060469216" ref="música"/>
+    <file name="banda-filarm_nica-juvenil.css" crc="4060469216" ref="banda-filarmónica-juvenil"/>
+    <file name="orquesta-filarm_nic-a-juvenil-de-c_mara.css" crc="4060469216" ref="orquesta-filarmónic-a-juvenil-de-cámara"/>
+    <file name="festival-de-teatro.css" crc="4060469216" ref="festival-de-teatro"/>
+    <file name="grupo-de-teatro.css" crc="4060469216" ref="grupo-de-teatro"/>
+    <file name="orquesta-sinf_nica-de-bogot_.css" crc="4060469216" ref="orquesta-sinfónica-de-bogotá"/>
+    <file name="cine.css" crc="152707478" ref="cine"/>
+    <file name="danza.css" crc="4060469216" ref="danza"/>
+    <file name="coro-filarm_nico-juvenil.css" crc="4060469216" ref="coro-filarmónico-juvenil"/>
+    <file name="teatro.css" crc="4060469216" ref="teatro"/>
+    <file name="grupos-de-la-ciudad.css" crc="4060469216" ref="grupos-de-la-ciudad"/>
+    <file name="conciertos-del-medio-d_a.css" crc="4060469216" ref="conciertos-del-medio-día"/>
+    <file name="grupos-institucionales.css" crc="4214353314" ref="grupos-institucionales"/>
+    <file name="index.css" crc="127356425" ref="index"/>
+    <file name="opera.css" crc="4060469216" ref="opera"/>
+    <file name="festival-de-bandas.css" crc="4060469216" ref="festival-de-bandas"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:agenda-cultural:franjas-permanentes:grupos-institucionales:festivales:grupos-de-la-ciudad:artistas-invitados:cine:martes-en-vivo:conciertos-del-medio-día:exposiciones:opera:grupo-de-teatro:orquesta-de-los-andes:coro-de-los-andes:festival-de-jazz:festival-de-teatro:semana-de-las-artes:festival-de-bandas:bogoshorts:orquesta-filarmónica-de-bogotá:orquesta-sinfónica-de-bogotá:orquesta-filarmónica-juvenil:banda-filarmónica-juvenil:orquesta-filarmónic-a-juvenil-de-cámara:coro-filarmónico-juvenil:danza:teatro:piano:música:música-antigua:música-clásica:música-del-mundo:música-experimental"/>
+    <file name="museutils.js" crc="479751881" ref="index:agenda-cultural:franjas-permanentes:grupos-institucionales:festivales:grupos-de-la-ciudad:artistas-invitados:cine:martes-en-vivo:conciertos-del-medio-día:exposiciones:opera:grupo-de-teatro:orquesta-de-los-andes:coro-de-los-andes:festival-de-jazz:festival-de-teatro:semana-de-las-artes:festival-de-bandas:bogoshorts:orquesta-filarmónica-de-bogotá:orquesta-sinfónica-de-bogotá:orquesta-filarmónica-juvenil:banda-filarmónica-juvenil:orquesta-filarmónic-a-juvenil-de-cámara:coro-filarmónico-juvenil:danza:teatro:piano:música:música-antigua:música-clásica:música-del-mundo:música-experimental"/>
+    <file name="jquery.musemenu.js" crc="4120181458" ref="agenda-cultural:franjas-permanentes:grupos-institucionales:festivales:grupos-de-la-ciudad:artistas-invitados:cine:martes-en-vivo:conciertos-del-medio-día:exposiciones:opera:grupo-de-teatro:orquesta-de-los-andes:coro-de-los-andes:festival-de-jazz:festival-de-teatro:semana-de-las-artes:festival-de-bandas:bogoshorts:orquesta-filarmónica-de-bogotá:orquesta-sinfónica-de-bogotá:orquesta-filarmónica-juvenil:banda-filarmónica-juvenil:orquesta-filarmónic-a-juvenil-de-cámara:coro-filarmónico-juvenil:danza:teatro:piano:música:música-antigua:música-clásica:música-del-mundo:música-experimental"/>
+    <file name="html5shiv.js" crc="4241844378" ref="agenda-cultural:franjas-permanentes:grupos-institucionales:festivales:grupos-de-la-ciudad:artistas-invitados:cine:martes-en-vivo:conciertos-del-medio-día:exposiciones:opera:grupo-de-teatro:orquesta-de-los-andes:coro-de-los-andes:festival-de-jazz:festival-de-teatro:semana-de-las-artes:festival-de-bandas:bogoshorts:orquesta-filarmónica-de-bogotá:orquesta-sinfónica-de-bogotá:orquesta-filarmónica-juvenil:banda-filarmónica-juvenil:orquesta-filarmónic-a-juvenil-de-cámara:coro-filarmónico-juvenil:danza:teatro:piano:música:música-antigua:música-clásica:música-del-mundo:música-experimental"/>
+    <file name="webpro.js" crc="3930024250" ref="franjas-permanentes:grupos-institucionales:artistas-invitados"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="franjas-permanentes:grupos-institucionales:artistas-invitados"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="franjas-permanentes:grupos-institucionales:artistas-invitados"/>
+    <file name="touchswipe.js" crc="4151298246" ref="franjas-permanentes:grupos-institucionales:artistas-invitados"/>
+  </folder>
+  <folder name="images">
+    <file name="intro.png" crc="21984215" ref="index"/>
+    <file name="continuar.png" crc="3915189512" ref="index"/>
+    <file name="line.png" crc="312073672" ref="index"/>
+    <file name="logo-cultura.png" crc="91385141" ref="index:agenda-cultural:franjas-permanentes:grupos-institucionales:festivales:grupos-de-la-ciudad:artistas-invitados:cine:martes-en-vivo:conciertos-del-medio-día:exposiciones:opera:grupo-de-teatro:orquesta-de-los-andes:coro-de-los-andes:festival-de-jazz:festival-de-teatro:semana-de-las-artes:festival-de-bandas:bogoshorts:orquesta-filarmónica-de-bogotá:orquesta-sinfónica-de-bogotá:orquesta-filarmónica-juvenil:banda-filarmónica-juvenil:orquesta-filarmónic-a-juvenil-de-cámara:coro-filarmónico-juvenil:danza:teatro:piano:música:música-antigua:música-clásica:música-del-mundo:música-experimental"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="agenda-cultural"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="agenda-cultural"/>
+    <file name="eve9-26-11-08-001.jpg" crc="3897328006" ref="agenda-cultural"/>
+    <file name="facebook.png" crc="3808795921" ref="agenda-cultural:franjas-permanentes:grupos-institucionales:festivales:grupos-de-la-ciudad:artistas-invitados:cine:martes-en-vivo:conciertos-del-medio-día:exposiciones:opera:grupo-de-teatro:orquesta-de-los-andes:coro-de-los-andes:festival-de-jazz:festival-de-teatro:semana-de-las-artes:festival-de-bandas:bogoshorts:orquesta-filarmónica-de-bogotá:orquesta-sinfónica-de-bogotá:orquesta-filarmónica-juvenil:banda-filarmónica-juvenil:orquesta-filarmónic-a-juvenil-de-cámara:coro-filarmónico-juvenil:danza:teatro:piano:música:música-antigua:música-clásica:música-del-mundo:música-experimental"/>
+    <file name="twitter.png" crc="242789979" ref="agenda-cultural:franjas-permanentes:grupos-institucionales:festivales:grupos-de-la-ciudad:artistas-invitados:cine:martes-en-vivo:conciertos-del-medio-día:exposiciones:opera:grupo-de-teatro:orquesta-de-los-andes:coro-de-los-andes:festival-de-jazz:festival-de-teatro:semana-de-las-artes:festival-de-bandas:bogoshorts:orquesta-filarmónica-de-bogotá:orquesta-sinfónica-de-bogotá:orquesta-filarmónica-juvenil:banda-filarmónica-juvenil:orquesta-filarmónic-a-juvenil-de-cámara:coro-filarmónico-juvenil:danza:teatro:piano:música:música-antigua:música-clásica:música-del-mundo:música-experimental"/>
+    <file name="road.jpg" crc="3979814168" ref="franjas-permanentes:grupos-institucionales:artistas-invitados"/>
+    <file name="cactus.jpg" crc="4013389216" ref="franjas-permanentes:grupos-institucionales:artistas-invitados"/>
+    <file name="trees.jpg" crc="282613922" ref="franjas-permanentes:grupos-institucionales:artistas-invitados"/>
+  </folder>
+  <file name="index.html" crc="98541077" mt="1467923712007" redirect="true"/>
+  <file name="agenda-cultural.html" crc="4274899903" mt="1467926564779" redirect="true"/>
+  <file name="franjas-permanentes.html" crc="4159643086" mt="1467926564779" redirect="true"/>
+  <file name="grupos-institucionales.html" crc="3793373395" mt="1467926564779" redirect="true"/>
+  <file name="festivales.html" crc="3789177851" mt="1467926564779" redirect="true"/>
+  <file name="grupos-de-la-ciudad.html" crc="439130790" mt="1467926564779" redirect="true"/>
+  <file name="artistas-invitados.html" crc="3854688909" mt="1467927340970" redirect="true"/>
+  <file name="cine.html" crc="3810643443" mt="1467926564779" redirect="true"/>
+  <file name="martes-en-vivo.html" crc="199630863" mt="1467926564779" redirect="true"/>
+  <file name="conciertos-del-medio-día.html" crc="523662749" mt="1467926564779" redirect="true"/>
+  <file name="exposiciones.html" crc="125322764" mt="1467926564779" redirect="true"/>
+  <file name="opera.html" crc="493375917" mt="1467926564779" redirect="true"/>
+  <file name="grupo-de-teatro.html" crc="322392759" mt="1467926564779" redirect="true"/>
+  <file name="orquesta-de-los-andes.html" crc="431277263" mt="1467926564779" redirect="true"/>
+  <file name="coro-de-los-andes.html" crc="4122096238" mt="1467926564779" redirect="true"/>
+  <file name="festival-de-jazz.html" crc="69489710" mt="1467926564779" redirect="true"/>
+  <file name="festival-de-teatro.html" crc="3822186868" mt="1467926564779" redirect="true"/>
+  <file name="semana-de-las-artes.html" crc="167215964" mt="1467926564779" redirect="true"/>
+  <file name="festival-de-bandas.html" crc="77020050" mt="1467926564779" redirect="true"/>
+  <file name="bogoshorts.html" crc="493966970" mt="1467926564779" redirect="true"/>
+  <file name="orquesta-filarmónica-de-bogotá.html" crc="84810469" mt="1467926564779" redirect="true"/>
+  <file name="orquesta-sinfónica-de-bogotá.html" crc="97579097" mt="1467926564779" redirect="true"/>
+  <file name="orquesta-filarmónica-juvenil.html" crc="3805371450" mt="1467926564779" redirect="true"/>
+  <file name="banda-filarmónica-juvenil.html" crc="4196045162" mt="1467926564779" redirect="true"/>
+  <file name="orquesta-filarmónic-a-juvenil-de-cámara.html" crc="3986410610" mt="1467926564779" redirect="true"/>
+  <file name="coro-filarmónico-juvenil.html" crc="424615505" mt="1467926564779" redirect="true"/>
+  <file name="danza.html" crc="4138383191" mt="1467926564779" redirect="true"/>
+  <file name="teatro.html" crc="3917678423" mt="1467926564779" redirect="true"/>
+  <file name="piano.html" crc="330840232" mt="1467926564779" redirect="true"/>
+  <file name="música.html" crc="319849489" mt="1467926564779" redirect="true"/>
+  <file name="música-antigua.html" crc="140405396" mt="1467926564779" redirect="true"/>
+  <file name="música-clásica.html" crc="103010223" mt="1467926564779" redirect="true"/>
+  <file name="música-del-mundo.html" crc="3846336735" mt="1467926564779" redirect="true"/>
+  <file name="música-experimental.html" crc="318866271" mt="1467926564779" redirect="true"/>
+</manifest>
